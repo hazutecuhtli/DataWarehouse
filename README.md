@@ -101,7 +101,7 @@ Therefore, the star schema is achieved by creating the songplays fact table and 
 order by songplay_id
 limit 10;*
 
-![alt text](/home/workspace/images/SongPlayQuery.png)
+![alt text](/images/SongPlayQuery.png)
 
 ### Users table Query
 
@@ -109,7 +109,7 @@ limit 10;*
 order by user_id
 limit 10;*
 
-![alt text](/home/workspace/images/UsersQuery.png)
+![alt text](/images/UsersQuery.png)
 
 ### Songs table Query
 
@@ -117,7 +117,7 @@ limit 10;*
 order by song_id
 limit 10;*
 
-![alt text](/home/workspace/images/SongsQuery.png)
+![alt text](/images/SongsQuery.png)
 
 ### Artists table Query
 
@@ -125,7 +125,7 @@ limit 10;*
 order by artist_id
 limit 10;*
 
-![alt text](/home/workspace/images/ArtistsQuery.png)
+![alt text](/images/ArtistsQuery.png)
 
 ### Time table Query
 
@@ -133,4 +133,4 @@ limit 10;*
 order by start_time
 limit 10;*
 
-![alt text](/home/workspace/images/TimeQuery.png)
+![alt text](/images/TimeQuery.png)
